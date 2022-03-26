@@ -1,0 +1,39 @@
+#start-btn
+{
+    width: 40%;
+} 
+Here we are adding the id camera
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+/* Here we are adding our id of logo_img */
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+    /* Then we are setting the width and border radius of the logo */
+}
+/* Here we are adding the id #textbox */
+#textbox
+{
+    width: 300px;
+    background: red;
+    /* Here we are setitng the width of out textbox */
+}
+.scenery {
+    width: 308px;
+    height: 189px;
+}
+.scenery:hover{
+    width: 310px;
+    height: 190px;
+    border-style: inset;
+    border-width: 10px;
+}
+#heading {
+    font-family: 'Hurricane', cursive;
+    font-size: 150px;
+}
